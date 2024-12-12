@@ -8,4 +8,5 @@ arcpy
 ### Contents
 Reclassification and Study Area.ipynb - Notebook that contains code for the first section of the methodology. 
 Data Preparation and Analysis.ipynb - Notebook that contains code for the second section of the methodology. 
+ProjectExport.gdb.zip - Geodatabase containing final Emerging Hot Spot Analysis
 
